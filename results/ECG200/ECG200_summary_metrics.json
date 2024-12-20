@@ -1,0 +1,14 @@
+{
+    "Mean_Accuracy": 0.8,
+    "CI_Accuracy_Low": 0.7050000000000002,
+    "CI_Accuracy_High": 0.8950000000000001,
+    "Mean_Balanced_Accuracy": 0.8114774114774115,
+    "CI_Bal_Acc_Low": 0.7323972323972325,
+    "CI_Bal_Acc_High": 0.8905575905575905,
+    "Mean_MCC": 0.6089279085943055,
+    "CI_MCC_Low": 0.443986994942567,
+    "CI_MCC_High": 0.7738688222460439,
+    "Mean_AUC": 0.8815897773505852,
+    "CI_AUC_Low": 0.8335131357134272,
+    "CI_AUC_High": 0.9247317851694318
+}
